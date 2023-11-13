@@ -1,4 +1,4 @@
-# prolog-finance
+# prolog-technical-indicators
 
 A collection of predicates defining the relation between elements in a time series and a common technical indicators.
 
